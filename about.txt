@@ -1,0 +1,17 @@
+I'am Muhamad Ahimsa, a multi-disciplinary designer and web developer, passionate about crafting ideas, visuals, and typography into unforgettable digital experiences. With a genuine belief in the transformative power of design, I'm constantly exploring the vast creative world, from art, graphic design, illustration, and UX design.
+
+I bring a unique blend of design and development skills to every projects. My goal is to deliver digital experiences that not only engage and inspire but also achieve tangible results for my clients. When working on websites, I place a strong emphasis on crafting unique layouts, captivating interactions, and good use of typography, blend together these elements to create a seamless user experience that leaves a lasting impression.
+
+Saya seorang desainer multidisiplin dan pengembang web, bersemangat dalam menyusun ide, visual, dan tipografi menjadi pengalaman digital yang tak terlupakan. 
+
+dengan keyakinan tulus pada kekuatan transformatif desain, saya terus menjelajahi dunia kreatif yang luas, mulai dari seni, desain grafis, ilustrasi, dan desain UX.
+
+Saya menghadirkan perpaduan unik antara keterampilan desain dan pengembangan untuk setiap proyek. Tujuan saya adalah memberikan pengalaman digital yang tidak hanya melibatkan dan menginspirasi tetapi juga mencapai hasil nyata bagi klien saya.
+
+ketika bekerja di situs web, saya sangat menekankan pada pembuatan tata letak yang unik, interaksi yang menawan, dan penggunaan tipografi yang baik, memadukan elemen-elemen ini untuk menciptakan pengalaman pengguna yang lancar dan meninggalkan kesan abadi.
+
+
+color: white;
+background-color: rgba(255, 255, 255, 0.1);
+backdrop-filter: blur(16px);
+border-radius: 8px;

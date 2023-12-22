@@ -1,0 +1,535 @@
+@media (max-width: 480px) {
+    .body .loader span {
+        font-size: 1rem;
+    }
+
+    .page1 .ofh h1 span {
+        position: relative;
+        left: -.8vw;
+    }
+
+    .nav {
+        padding: 1.5rem;
+    }
+
+    .nav .nav-logo a button span span {
+        font-size: 1.1rem;
+    }
+
+    .nav .nav-talk a button span span {
+        font-size: 1.1rem;
+    }
+
+    .page1 .hero-bottom {
+        left: 1.5rem;
+        padding-top: 64vw;
+        font-size: 3vw;
+    }
+
+    .page2 {
+        padding: 3rem 1.5rem;
+    }
+
+    .about-details div p {
+        font-size: 1.1rem;
+        width: 80vw;
+    }
+
+    .about1 {
+        left: 0;
+    }
+
+    .projects {
+        padding: 1vw 1.5rem 0 1.5rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .project-top {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10vw;
+    }
+
+    .project1 .project-img {
+        width: 60vw;
+        height: auto;
+        overflow: hidden;
+    }
+
+    .project-top .project1 {
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        gap: 2vw;
+    }
+
+    .project2 .project-img {
+        width: 60vw;
+        height: auto;
+        overflow: hidden;
+    }
+
+    .project-top .project2 {
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        gap: 2vw;
+    }
+
+    .project3 .project-img {
+        width: 60vw;
+        height: 75vw;
+        overflow: hidden;
+    }
+
+    .project-bottom .project3 {
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        gap: 2vw;
+    }
+
+    .project1 .project-details p {
+        font-size: 2.8vw;
+        width: 55vw;
+        font-weight: 300;
+        gap: .3vw;
+    }
+
+    .project1 .project-details a {
+        font-size: 3.5vw;
+        font-weight: 500;
+    }
+
+    .project-top .project2 .project-details {
+        text-align: start;
+    }
+
+    .project-top .project2 .project-details a {
+        position: relative;
+        left: 1vw;
+    }
+
+    .project-top .project2 .project-details p {
+        position: relative;
+        left: 1vw;
+    }
+
+    .project2 .project-details p {
+        font-size: 2.8vw;
+        width: 55vw;
+        font-weight: 300;
+        gap: .3vw;
+        
+    }
+
+    .project2 .project-details a {
+        font-size: 3.5vw;
+        font-weight: 500;
+    }
+
+    .project-bottom .project3 .project-details p {
+        width: 60vw;
+    }
+
+    .project3 .project-details p {
+        font-size: 2.8vw;
+        font-weight: 300;
+        gap: .3vw;
+    }
+
+    .project3 .project-details a {
+        font-size: 3.5vw;
+        font-weight: 500;
+    }
+
+    .toggle-change .toggle-detail {
+        font-size: 1.2rem;
+    }
+
+    .toggle-change .toggle-wrapp a {
+        position: relative;
+        left: 32%;
+        font-size: 1rem;
+    }
+
+    .toggle-change .toggle-wrapp a {
+        width: 31.9vw;
+    }
+
+    .marquee-wrapp .marquee-text p {
+        width: 80vw;
+        font-size: 3.5rem;
+    }
+    
+    .marquee-wrapp .marquee-2 .marquee-text p {
+        width: 68vw;
+    }
+
+    .marquee-wrapp .marquee-2 .marquee-text .marquee-star {
+        position: relative;
+        left: .4rem;
+    }
+
+    .marquee-wrapp .marquee-text span {
+        font-size: 6rem;
+        position: relative;
+        top: 1.9rem;
+    }
+
+    .marquee-wrapp .marquee-2 {
+        position: relative;
+        top: -3.8rem;
+    }
+
+    .service .elem-wrapp {
+        padding: 40vw 1.5rem 0 1.5rem;
+    }
+
+    .contact .contact-top {
+        font-size: .9rem;
+        padding: 3rem 1.5rem;
+    }
+
+    .contact-top .contact1 {
+        display: flex;
+        flex-direction: column;
+        gap: 20vw;
+    }
+
+    .contact-top .contact1 p {
+        font-size: 1.7rem;
+    }
+
+    .contact1 .right1 {
+        width: 89vw;
+    }
+
+    .right1 .right-menu {
+        display: flex;
+        flex-direction: column;
+        gap: 4vw;
+    }
+
+    .right1 .right-menu a button span span {
+        font-size: .95rem;
+        font-weight: 100;
+    }
+
+    .right1 .right-links {
+        display: flex;
+        flex-direction: column;
+        gap: 4vw;
+    }
+
+    .right1 .right-links a button span span {
+        font-size: .95rem;
+        font-weight: 100;
+    }
+
+    .contact-top .contact2 {
+        padding-top: 49vw;
+    }
+
+    .contact2 .right1 {
+        width: 51vw;
+    }
+}
+
+@media (min-width: 648px) {
+    
+}
+
+@media (max-width: 768px) {
+    .loader span {
+        font-size: 1.2rem;
+    }
+
+    .page1 div h1 span {
+        position: relative;
+        left: 5vw;
+    }
+
+    .nav-logo a button span span {
+        font-size: 1.2rem;
+    }
+
+    .nav-talk a button span span {
+        font-size: 1.2rem;
+    }
+
+    .hero-bottom {
+        padding-top: 19vw;
+        font-size: 2vw;
+    }
+
+    .about {
+        font-size: .9rem;
+    }
+
+    .about-details p {
+        font-size: 1.1rem;
+    }
+
+    .work-title {
+        position: relative;
+        padding-top: 1rem;
+        padding-left: 3rem;
+        font-size: 2.5rem;
+    }
+    .work2 {
+        position: relative;
+        top: -1.3rem;
+    }
+
+    .projects {
+        gap: 1.8rem;
+        padding-top: .8rem;
+    }
+
+    .project-1 .project {
+        width: 24vw;
+        height: 30vw;
+    }
+
+    .project-1 {
+        gap: .5rem;
+    }
+
+    .project-2 {
+        padding-right: 1.5rem;
+        gap: .5rem;
+    }
+
+    .project-3 {
+        gap: .5rem;
+    }
+
+    .project-3 .project {
+        width: 65vw;
+        height: 33vw;
+    }
+
+    .project-details p {
+        font-size: 1.5vw;
+        width: 25vw;
+        font-weight: 300;
+        gap: .3vw;
+    }
+
+    .project-details a {
+        font-size: 1.8vw;
+        font-weight: 500;
+    }
+
+    .project2 .project-details {
+        left: -1.1vw;
+        text-align: right;
+    }
+
+    .project2 .project-details a{
+        position: relative;
+        left: 3.1vw;
+    }
+
+    .project-bottom .project3 .project-details{
+        width: 60vw;
+    }
+
+    .toggle-change {
+        padding-top: 3rem;
+    }
+
+    .toggle-detail {
+        font-size: 1.5rem;
+        font-weight: 400;
+    }
+
+    .toggle-wrapp a {
+        position: relative;
+        left: 32%;
+        font-size: 1.1rem;
+    }
+
+    .toggle-change a {
+        width: 30vw;
+    }
+
+    .toggle-gallery {
+        padding: .2rem 2rem .4rem 2rem;
+    }
+
+    .marquee-text {
+        gap: 0;
+    }
+
+    .marquee-text p {
+        width: 10vw;
+        font-size: 4rem;
+    }
+    
+    .marquee-2 .marquee-text p {
+        width: 10vw;
+    }
+
+    .marquee-1 {
+        padding-top: 0;
+    }
+
+    .marquee-2 {
+        position: relative;
+        top: -4.5rem;
+    }
+
+    .marquee-1 .marquee-text .marquee-star {
+        position: relative;
+        left: 1.3rem;
+    }
+
+    .marquee-2 .marquee-text .marquee-star {
+        position: relative;
+        left: 1.7rem;
+    }
+
+    .marquee-text span {
+        font-size: 7rem;
+        position: relative;
+        top: 2.2rem;
+    }
+
+    .service-title {
+        top: -2rem;
+        font-size: 1rem;
+    }
+
+    .elem {
+        height: 14vh;
+    }
+
+    .elem img {
+        height: 220px;
+    }
+
+    .contact-top {
+        font-size: 1.2rem;
+    }
+
+    .contact1 p {
+        font-size: 1.5rem;
+    }
+
+    .right1 {
+        width: 35vw;
+    }
+
+    .right-menu a button span span {
+        font-size: 1.2rem;
+        font-weight: 100;
+    }
+
+    .right-links a button span span {
+        font-size: 1.2rem;
+        font-weight: 100;
+    }
+
+    .contact2 {
+        padding-top: 25.5rem;
+    }
+
+    .contact2 .left2 p:nth-child(2) {
+        display: none;
+    }
+
+    .footer-bottom span {
+        font-size: 15rem;
+        display: none;
+    }
+    
+    .footer-bottom {
+        position: relative;
+        padding-right: 3rem;
+        font-size: 15rem;
+        display: none;
+    }
+}
+
+@media (max-width: 1024px) {
+    .page1 div h1 span {
+        position: relative;
+        left: -.55rem;
+    }
+
+    .hero-bottom {
+        top: 56vw;
+    }
+
+    .about-details {
+        font-size: 1.4rem;
+    }
+
+    .project-2 {
+        padding-right: 1.5rem;
+    }
+
+    .project-details {
+        position: relative;
+        font-size: 1rem;
+        width: 27vw;
+        font-weight: 300;
+        gap: .2rem;
+    }
+
+    .project-details-2 {
+        position: relative;
+        width: 27vw;
+        left: -1.5rem;
+        gap: .2rem;
+    }
+
+    .project-details-3 {
+        width: 40vw;
+        gap: .2rem;
+    }
+
+    .toggle-change a {
+        width: 21.5vw;
+    }
+
+    .marquee-text p {
+        width: 57vw;
+    }
+    
+    .marquee-2 .marquee-text p {
+        width: 55vw;
+    }
+
+    .service-title {
+        padding-top: 6.5rem;
+    }
+
+    .elem-wrapp {
+        padding-top: 25vw;
+    }
+
+    .footer-bottom {
+        padding-right: 3rem;
+        display: inline-block;
+    }
+
+    .footer-bottom span {
+        font-size: 18rem;
+        position: relative;
+        top: 0;
+    }
+}
+
+@media (min-width: 1280px) {
+    
+}
+
+@media (min-width: 1536px) {
+    
+}
